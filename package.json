@@ -1,6 +1,6 @@
 {
   "name": "@iheredia/toolkit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/iheredia/node-toolkit"
+  "homepage": "https://github.com/iheredia/node-toolkit",
+  "dependencies": {
+    "json-stable-stringify": "1.0.1",
+    "mkdirp": "0.5.1"
+  }
 }
